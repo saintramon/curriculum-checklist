@@ -2,15 +2,9 @@
 
 
 ## Description
-This project contains major requirements for our CS 122 Computer Programming 2 class.
+This project contains one of the major requirements for our CS 122 Computer Programming 2 class.
 
-1. We are tasked to design and build a Fraction class in which several arithmetic operations can be performed to the objects of the Fraction class.
-
-2. We are tasked to design and build a text-based curriculum checklist for the Computer Science program of Saint Louis Univeristy
-
-## Github Repository
-
-[https://github.com/saintramon/fraction-arithemetic-operations](https://github.com/saintramon/fraction-arithemetic-operations)
+In this project, we are tasked to design and build a text-based curriculum checklist for the Computer Science program of Saint Louis Univeristy
 
 ## Authors and acknowledgment
 Programmers:
@@ -26,6 +20,6 @@ Programmers:
 For Academic Purposes only.
 
 ## Project status
-The project is now currently doing the Curriculum Checklist Text-Based System
+The whole project is finished
 
 
