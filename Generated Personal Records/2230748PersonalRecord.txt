@@ -1,0 +1,76 @@
+1,1,CS 111,Introduction to Computing,2.0,Not Yet Taken,false,false
+1,1,CS 111L,Introduction to Computing (Lab),1.0,Not Yet Taken,false,false
+1,1,CS 112,Computer Programming 1,2.0,Not Yet Taken,false,false
+1,1,CS 112L,Computer Programming 1 (Lab),1.0,Not Yet Taken,false,false
+1,1,CS 113,Discrete Structures,3.0,Not Yet Taken,false,false
+1,1,GMATH,Mathematics in the Modern World,3.0,Not Yet Taken,false,false
+1,1,GART,Art Appreciation,3.0,Not Yet Taken,false,false
+1,1,GHIST,Readings in Philippine History,3.0,Not Yet Taken,false,false
+1,1,FIT HW,Physical Activity Towards Health and Fitness (Health and Wellness),2.0,Not Yet Taken,false,false
+1,1,CFE 101,God’s Journey with His People,3.0,Not Yet Taken,false,false
+1,2,CS 121,Digital Logic Design,3.0,Not Yet Taken,false,false
+1,2,CS 122,Computer Programming 2,2.0,Not Yet Taken,false,false
+1,2,CS 122L,Computer Programming 2 (Lab),1.0,Not Yet Taken,false,false
+1,2,CS 123,Architecture and Organization,2.0,Not Yet Taken,false,false
+1,2,CS 123L,Architecture and Organization (Lab),1.0,Not Yet Taken,false,false
+1,2,GSELF,Understanding the Self,3.0,Not Yet Taken,false,false
+1,2,GPCOM,Purposive Communication,3.0,Not Yet Taken,false,false
+1,2,GENVI,Environmental Science,3.0,Not Yet Taken,false,false
+1,2,FIT CS,Physical Activity Towards Health and Fitness (Combative Sports),2.0,Not Yet Taken,false,false
+1,2,CFE 102,Christian Morality in Our Times,3.0,Not Yet Taken,false,false
+1,3,CS 131,Software Modeling and Analysis,3.0,Not Yet Taken,false,false
+1,3,CS 132,Mathematics for Computer Science,3.0,Not Yet Taken,false,false
+2,1,CS 211,Data Structures,2.0,Not Yet Taken,false,false
+2,1,CS 211L,Data Structures (Lab),1.0,Not Yet Taken,false,false
+2,1,CS 212,Operating Systems,2.0,Not Yet Taken,false,false
+2,1,CS 212L,Operating Systems (Lab),1.0,Not Yet Taken,false,false
+2,1,CS 213,Human Computer Interaction,3.0,Not Yet Taken,false,false
+2,1,GSTS, Science Technology and Society,3.0,Not Yet Taken,false,false
+2,1,GRVA,Reading Visual Art,3.0,Not Yet Taken,false,false
+2,1,NSTP-CWTS 1,Foundations of Service,3.0,Not Yet Taken,false,false
+2,1,FIT OA,Physical Activity Towards Health and Fitness (Outdoor and Adventure Activities),2.0,Not Yet Taken,false,false
+2,1,CFE 103,Catholic Foundation of Mission,3.0,Not Yet Taken,false,false
+2,2,CS 221,Information Management,2.0,Not Yet Taken,false,false
+2,2,CS 221L,Information Management (Lab),1.0,Not Yet Taken,false,false
+2,2,CS 222,Computer Programming 3,2.0,Not Yet Taken,false,false
+2,2,CS 222L,Computer Programming 3 (Lab),1.0,Not Yet Taken,false,false
+2,2,CS 223,Automata and Formal Languages,3.0,Not Yet Taken,false,false
+2,2,GETHICS,Ethics,3.0,Not Yet Taken,false,false
+2,2,GCWORLD,The Contemporary World,3.0,Not Yet Taken,false,false
+2,2,NSTP-CWTS 2,Social Awareness and Empowerment for Service,3.0,Not Yet Taken,false,false
+2,2,FIT AQ,Physical Activity Towards Health and Fitness (Aquatics),2.0,Not Yet Taken,false,false
+2,2,CFE 104,CICM Missionary Identity,3.0,Not Yet Taken,false,false
+2,3,CS 231,Computer Networks,2.0,Not Yet Taken,false,false
+2,3,CS 231L,Computer Networks (Lab),1.0,Not Yet Taken,false,false
+2,3,GRIZAL,The Life and Works of Rizal,3.0,Not Yet Taken,false,false
+2,3,GENTREP,The Entrepreneurial Mind,3.0,Not Yet Taken,false,false
+3,1,CS 311,Applications Development,2.0,Not Yet Taken,false,false
+3,1,CS 311L,Applications Development (Lab),1.0,Not Yet Taken,false,false
+3,1,CS 312,Web Systems Development,2.0,Not Yet Taken,false,false
+3,1,CS 312L,Web Systems Development (Lab),1.0,Not Yet Taken,false,false
+3,1,CS 313,Software Engineering,3.0,Not Yet Taken,false,false
+3,1,CS 314,Social and Personal Development in the ICT Workplace,3.0,Not Yet Taken,false,false
+3,1,CS 315,Technology-Assisted Presentation and Presentation,3.0,Not Yet Taken,false,false
+3,1,CSM 316,Numerical Methods for Computer Science,3.0,Not Yet Taken,false,false
+3,1,CFE 105A,CICM in Action: Justice Peace and Integrity of Creation Indigenous Peoples and Interreligious Dialogue,1.5,Not Yet Taken,false,false
+3,2,CS 321,Artificial Intelligence,3.0,Not Yet Taken,false,false
+3,2,CS 322,Data Science,2.0,Not Yet Taken,false,false
+3,2,CS 322L,Data Science (Lab),1.0,Not Yet Taken,false,false
+3,2,CS 323,Modeling and Simulation ,2.0,Not Yet Taken,false,false
+3,2,CS 323L,Modeling and Simulation (Lab),1.0,Not Yet Taken,false,false
+3,2,CS 324,Methods of Research in Computer Science,3.0,Not Yet Taken,false,false
+3,2,CS 325,Structure of Programming Languages,3.0,Not Yet Taken,false,false
+3,2,CFE 105B,CICM in Action:Environmental Planning and Management and Disaster Risk Reduction Management,1.5,Not Yet Taken,false,false
+3,3,CS 331,Practicum,6.0,Not Yet Taken,false,false
+4,1,CFE 106A,Embracing the CICM Mission ,1.5,Not Yet Taken,false,false
+4,1,CS 411,CS Thesis 1,3.0,Not Yet Taken,false,false
+4,1,CS 412,Information Assurance and Security,3.0,Not Yet Taken,false,false
+4,1,CS 413,Professional Practice and Cyberethics,3.0,Not Yet Taken,false,false
+4,1,CSE,Elective 1,3.0,Not Yet Taken,false,false
+4,1,CSE,Elective 2,3.0,Not Yet Taken,false,false
+4,2,CFE 106B,Embracing the CICM Mission ,1.5,Not Yet Taken,false,false
+4,2,CS 421,CS Thesis 2,3.0,Not Yet Taken,false,false
+4,2,CS 422,Distributed Computing,3.0,Not Yet Taken,false,false
+4,2,FOR LANG 1,Foreign Language 1,3.0,Not Yet Taken,false,false
+4,2,CSE,Elective 3,3.0,Not Yet Taken,false,false
+4,2,CSE,Elective 4,3.0,Not Yet Taken,false,false
